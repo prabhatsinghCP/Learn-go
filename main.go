@@ -8,6 +8,6 @@ func main() {
 	for i := 0; i < 10; i++ {
 		sum += i
 	}
-	fmt.Printf("sum is %v\n and tupe of sun is %T\n", sum, sum)
+	fmt.Printf("sum is %v\n", sum)
 
 }
