@@ -1,0 +1,7 @@
+//this is file.txt
+
+point1=The world is so beautiful and we don't need to change this world
+
+point2=the beautiful thig is do help each ohter in this world
+
+point3=I understand now , got it!
